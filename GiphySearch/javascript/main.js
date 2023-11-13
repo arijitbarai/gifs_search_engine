@@ -21,6 +21,7 @@ x.addEventListener("keyup", function(e) {
 
 
 
+
 // Interacting with the Giphy API
 
 function getInput(item) {
